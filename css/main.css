@@ -3,7 +3,7 @@ body{
     color: yellow;
 }
 
-/* nav a {
+ nav a {
     color: greenyellow;
     text-decoration: none;
 
@@ -18,7 +18,7 @@ nav a:hover{
 
 }
 
-div{
+/*div{
     background-color: rgb(51, 30, 2);
     margin: 0;
 }
